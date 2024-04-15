@@ -1,0 +1,22 @@
+body{
+    background: black;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    top:30%;
+    right:28%;
+}
+.home{
+    color:white;
+    font-size: 60px;
+    position: absolute;
+    top:55%;
+    right: 41%;
+    cursor: pointer;
+}

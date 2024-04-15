@@ -1,0 +1,9 @@
+.nav-menu {
+    display: flex;
+    margin-left: 80%; 
+    margin-right: 2rem;
+    font-size: 1.2rem;
+    line-height: 1.75rem;
+    gap: 1.9rem;
+    font-weight: 700;
+  }
