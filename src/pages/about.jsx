@@ -14,7 +14,7 @@ const AboutPage = () => {
         touchControls: true,
         gyroControls: false,
         minHeight: 2020.00, 
-        minWidth: 1700.00, 
+        minWidth: 2020.00, 
         scale: 0.5, 
         scaleMobile: 0.5, 
         color: 0xf9f9f9,

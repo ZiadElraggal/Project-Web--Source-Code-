@@ -6,4 +6,11 @@
     line-height: 1.75rem;
     gap: 1.9rem;
     font-weight: 700;
+    
   }
+  .nav-menu a:hover {
+    --tw-text-opacity: 1;
+    color: rgb(30 64 175 / var(--tw-text-opacity));
+    transform: scale(1.05);
+    transition: color 0.3s ease;
+}
