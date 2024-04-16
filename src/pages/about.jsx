@@ -13,10 +13,10 @@ const AboutPage = () => {
         mouseControls: true,
         touchControls: true,
         gyroControls: false,
-        minHeight: 2600.00,
-        minWidth: 500.00,
-        scale: 1.00,
-        scaleMobile: 1.00,
+        minHeight: 2020.00, 
+        minWidth: 1700.00, 
+        scale: 0.5, 
+        scaleMobile: 0.5, 
         color: 0xf9f9f9,
         backgroundColor: 0x0
       }));
