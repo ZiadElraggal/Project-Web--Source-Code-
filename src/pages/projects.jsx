@@ -21,7 +21,7 @@ const Projects = () => {
             This project represents the culmination of extensive effort and commitment spanning hundreds of hours. Through its development, I gained invaluable expertise in various coding languages and acquired insights into the nuances of website development etiquette
             <div className="project-buttons">
               <a href="./" className="view-project-button">View Project</a>
-              <a href="https://github.com/ZiadElraggal/ZiadElraggal.github.io" className="source-code-button">Source Code</a>
+              <a href="https://github.com/ZiadElraggal/Project-Web--Source-Code-" className="source-code-button">Source Code</a>
             </div>
           </div>
         </div>
