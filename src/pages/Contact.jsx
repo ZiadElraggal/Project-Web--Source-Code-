@@ -7,6 +7,7 @@ import Fox from '../models/Fox'
 import Loader from '../components/Loader'
 import useAlert from '../hooks/Usealert';
 import Alert from '../components/Alert';
+import { github, linkedin} from '../assets/icons';
 
 export const Contact = () => {
   const formRef = useRef(null);
@@ -138,7 +139,23 @@ export const Contact = () => {
         </Canvas>
 
       </div>
+        <div className="flex mt-0">
+    <a href="https://www.linkedin.com/in/ziad-elraggal-693a73290/" target="_blank" rel="noopener noreferrer">
+      <img
+        src={linkedin}
+        className='w-10 h-10 cursor-pointer object-contain mr-4'
+      />
+    </a>
+    <a href="https://github.com/ZiadElraggal" target="_blank" rel="noopener noreferrer">
+      <img
+        src={github}
+        className='w-10 h-10 cursor-pointer object-contain'
+      />
+    </a>
+  </div>
+          
     </section>
+    
   )
 }
 
