@@ -26,6 +26,12 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import python from './python.svg'
+import cpp from './cpp.svg'
+import matlab from './matlab.svg'
+import threejs from './threejs.svg'
+import microsoft from './microsoft.svg'
+import vite from './vite.svg'
 
 export {
     css,
@@ -55,5 +61,11 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,    
+    python,
+    cpp,
+    matlab,
+    threejs,
+    microsoft,
+    vite
 }

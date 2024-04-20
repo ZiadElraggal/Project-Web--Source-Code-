@@ -59,6 +59,23 @@ export const Contact = () => {
 
   return (
     <section className='relative flex lg:flex-row flex-col max-container'>
+        <div className='ze-button' style={{
+        position: 'fixed',
+        top: '1.5%',
+        left: '5%',
+        color: 'white',
+        fontWeight: 'bold',
+        padding: '7px',
+        display: 'flex',
+        alignItems: 'center',
+        transition: 'color 0.3s, transform 0.2s',
+        zIndex: '2',
+        background: 'radial-gradient(circle at 12.3% 19.3%, rgb(85, 88, 218) 0%, rgb(95, 209, 249) 100.2%)',
+        boxShadow: '0 0 10px rgba(0, 0, 0, 0.3)',
+        fontSize: '30px',
+      }}>
+        ZE
+      </div>
       {alert.show && <Alert {...alert}/>}
       <div className='flex-1 min-w-[50%] flex flex-col'>
         <h1 className='head-text'>Get in touch!
