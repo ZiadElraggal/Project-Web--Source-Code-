@@ -95,7 +95,7 @@ export const experiences = [
         iconBg: "#accbe1",
         date: "January 2024 - April 2024",
         points: [
-            "Conducted research and engineered a MATLAB script proficient in recording, visualizing, logging, and debugging temperatures for multiple Keithley data logging devices, ensuring compatibility with various measurement types and utilized Test Script Builder alongside Lua scripting to create example runs prior to implementing into MATLAB.",
+            "Conducted research and engineered a MATLAB script later devloped and finalized into a user-friendly application proficient in recording, visualizing, logging, and debugging temperatures and current for multiple Keithley data logging devices, ensuring compatibility with various measurement types and utilized Test Script Builder alongside Lua scripting to create example runs prior to implementing into MATLAB.",
             "Crafted comprehensive user manuals delineating operational procedures for the aforementioned Keithley data loggers, alongside an exhaustive guide elucidating the functionality and utilization of the developed script, including troubleshooting steps for debugging purposes.",
             "Formulated meticulous procedures and compiled equipment lists essential for the seamless execution of experiments across diverse measurement scenarios, meticulously ensuring adherence to standardized protocols and qualifications.",
             "Innovated and implemented solutions leveraging coding techniques to automate processes, thereby substantially diminishing the necessity for physical site visits to monitor experiment progression. This initiative yielded a notable reduction of approximately 23.8% in the associated operational costs.",

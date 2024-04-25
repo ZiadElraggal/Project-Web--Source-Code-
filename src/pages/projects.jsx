@@ -28,9 +28,9 @@ const Projects = () => {
       </div>
       <div className="projects-container">
         <div className="project">
-          <div className="project-title">Project 3706</div>
+          <div className="project-title">Project Keithley</div>
           <div className="project-description2">
-          This project involves a MATLAB script designed to interface with the Keithley 3706A digital multimeter, facilitating continuous temperature data acquisition. Notable features include customizable naming schemes, commented code, and a comprehensive user manual, although unreleased.
+          This project involves a MATLAB script designed to interface with the Keithley digital multimeters (3706A, DAQ6510), facilitating continuous temperature data or current acquisition. Notable features include custom set duration and intervals, user-friendly GUI, accurate real-time graphs, detailed spreadhseets, and a comprehensive user manual.
             <div className="project-buttons">
               <button id="view-project-button">View Project</button>
               <a href="https://github.com/ZiadElraggal/Project3706" className="source-code-button">Source Code</a>
