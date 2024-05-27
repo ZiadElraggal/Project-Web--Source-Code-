@@ -42,7 +42,7 @@ const AboutPage = () => {
             <div className="progress-bar" id="progress-bar"></div>
             <div
               className="current-progress"
-              style={{ width: 'calc(100% / 8 * 1.5)' }}
+              style={{ width: 'calc(100% / 3.8)' }}
             ></div>
           </div>
           <div className="progress-labels">

@@ -140,7 +140,7 @@ body::-webkit-scrollbar {
       width: 0;
     }
     to {
-      width: calc(100% / 8 * 1.5);
+      width: calc(100% / 3.8 );
     }
   }
 .progress-labels {
