@@ -14,6 +14,8 @@ import {
     matlab,
     threejs,
     microsoft,
+    AG,
+    Assembly,
     vite
 } from "../assets/icons";
 
@@ -83,11 +85,25 @@ export const skills = [
         name: 'Microsoft 365',
         type: 'Documentation, excel etc.',
     },
+    {
+        imageUrl: Assembly ,
+        name: 'Assembly',
+        type: 'Coding Language',
+    },
 
 
 ];
 
 export const experiences = [
+    {
+        title: "Software Engineering Student",
+        company_name: "Angler Solutions Inc.",
+        icon: AG,
+        iconBg: "#ffffff",
+        date: "September 2024 - December 2024",
+        points: ["TBA"
+        ],
+    },
     {
         title: "Research & Development Engineering Student",
         company_name: "Fisheries and Marine Institute of Memorial University of Newfoundland",

@@ -32,6 +32,8 @@ import matlab from './matlab.svg'
 import threejs from './threejs.svg'
 import microsoft from './microsoft.svg'
 import vite from './vite.svg'
+import AG from './AG.svg'
+import Assembly from './assembly.svg'
 
 export {
     css,
@@ -67,5 +69,7 @@ export {
     matlab,
     threejs,
     microsoft,
+    AG,
+    Assembly,
     vite
 }

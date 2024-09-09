@@ -6,4 +6,7 @@ export default defineConfig({
   plugins: [react()],
   assetsInclude: ['**/*.html'],
   assetsInclude: ['**/*.glb'],
+  server: {
+    port: 3006,
+  }
 })
