@@ -17,7 +17,7 @@ const renderContent = {
     <InfoBox
       text={
         <>
-          Hi, I am <span className='font-bold text-gray-900'>Ziad Elraggal</span>, a second-year computer engineering student, 
+          Hi, I am <span className='font-bold text-gray-900'>Ziad Elraggal</span>, a third-year computer engineering student, 
           and this is my online portfolio. A 3D interactive experience representing me and my career. Use your cursor/screen and move around to explore!
         </>
       }
