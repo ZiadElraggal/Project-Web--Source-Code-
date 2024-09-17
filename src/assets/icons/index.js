@@ -34,6 +34,7 @@ import microsoft from './microsoft.svg'
 import vite from './vite.svg'
 import AG from './AG.svg'
 import Assembly from './assembly.svg'
+import resume from './resume.svg'
 
 export {
     css,
@@ -71,5 +72,6 @@ export {
     microsoft,
     AG,
     Assembly,
+    resume,
     vite
 }
