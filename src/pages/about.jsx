@@ -66,15 +66,16 @@ const AboutPage = () => {
         <div className="wrapper">
           <h2>About Me, A Quick Overview</h2>
           <p>
-            Hello there! I'm Ziad Elraggal, a second-year Computer
+            Hello there! I'm Ziad Elraggal, a third-year Computer
             Engineering student at Memorial University of Newfoundland and
             Labrador. My journey involves delving into the exciting world of
             computer engineering, fueled by a genuine passion for the field.
             With each day, I bring dedication, motivation, and a strong drive
             to succeed in this captivating domain.
             <br /><br />
-            With a solid foundation in multiple integral skills such as
-            Python, C++, MATLAB, JavaScript, HTML, CSS, and cybersecurity, I
+            With a strong skillset involving
+            Python, C++, MATLAB, JavaScript, VueJS, ReactJS, TailwindCSS, FastAPI, PostgreSQL,
+            Data analysis and cybersecurity, I
             bring a diverse set of capabilities to the table with an eagerness
             to further learn and improve. I believe that there is always more
             out there to know and I cannot wait to utilize my skills and
@@ -84,25 +85,25 @@ const AboutPage = () => {
         <div className="wrapper2">
           <h2>My Projects and Experiences, a Sneak Peek</h2>
           <p>
-            While still at the beginning of my university journey, with ample
+            While still being halfway through my university journey with ample
             room to learn and grow, I have been fortunate to participate in
             numerous projects and volunteer opportunities. I have completed
-            one four-month-long co-op work term and eagerly anticipate many
-            more. <br /><br /> Though my work experiences may be relatively
+            two four-month-long co-op work term and eagerly anticipate many
+            more. <br /><br /> Though those work experiences may be relatively
             brief, the knowledge gained during these experiences has been
             invaluable. Alongside my myriad of projects and volunteer
             endeavors, these experiences have enhanced my skillset, providing
             me with a head-start in this competitive field that I am eagerly
             looking forward to contribute to. You can find detailed accounts
             of my experiences and projects in their own dedicated section on
-            this page.
+            this website.
           </p>
         </div>
         <div className="wrapper3">
           <h2>Aside From The Technical Aspect</h2>
           <p>
             Apart from my technical skills, I excel in time management,
-            leadership roles, teamwork, hosting large-scale events, and
+            leadership roles, teamwork, proplem-solving, and
             project management. Through my extensive involvement in long-term
             volunteer roles, I have consistently contributed to and taken
             pride in my community. I derive joy and a sense of fulfillment
